@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/esportbettingcoin_bg.qm</file>
+        <file alias="ca">locale/esportbettingcoin_ca.qm</file>
+        <file alias="cs">locale/esportbettingcoin_cs.qm</file>
+        <file alias="da">locale/esportbettingcoin_da.qm</file>
+        <file alias="de">locale/esportbettingcoin_de.qm</file>
+        <file alias="en">locale/esportbettingcoin_en.qm</file>
+        <file alias="en_US">locale/esportbettingcoin_en_US.qm</file>
+        <file alias="es">locale/esportbettingcoin_es.qm</file>
+        <file alias="fi">locale/esportbettingcoin_fi.qm</file>
+        <file alias="fr_FR">locale/esportbettingcoin_fr_FR.qm</file>
+        <file alias="it">locale/esportbettingcoin_it.qm</file>
+        <file alias="ja">locale/esportbettingcoin_ja.qm</file>
+        <file alias="ko_KR">locale/esportbettingcoin_ko_KR.qm</file>
+        <file alias="nl">locale/esportbettingcoin_nl.qm</file>
+        <file alias="pl">locale/esportbettingcoin_pl.qm</file>
+        <file alias="pt">locale/esportbettingcoin_pt.qm</file>
+        <file alias="pt_BR">locale/esportbettingcoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/esportbettingcoin_ro_RO.qm</file>
+        <file alias="ru">locale/esportbettingcoin_ru.qm</file>
+        <file alias="sk">locale/esportbettingcoin_sk.qm</file>
+        <file alias="sv">locale/esportbettingcoin_sv.qm</file>
+        <file alias="uk">locale/esportbettingcoin_uk.qm</file>
+        <file alias="zh_CN">locale/esportbettingcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/esportbettingcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
