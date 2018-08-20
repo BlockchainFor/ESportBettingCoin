@@ -43,7 +43,7 @@ Demon status:
 
 All binaries for different operating systems, you can download in the releases repository:
 
-https://github.com/technikpto/ESportBettingCoin/releases
+https://github.com/BlockchainFor/ESportBettingCoin/releases
 
 P2P port: 38815, RPC port: 38816
 -
