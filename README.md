@@ -1,4 +1,4 @@
-e-Sport Betting Coin (fork of LightPayCoin) integration/staging repository
+e-Sport Betting Coin (clone of LightPayCoin) integration/staging repository
 ======================================
 
 
